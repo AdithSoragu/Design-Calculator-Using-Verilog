@@ -17,3 +17,5 @@ The project is structured into three main functional blocks:
 ## 🛠️ Tools Used
 * **Language:** Verilog HDL
 * **Simulation:** ModelSim
+
+Developed as part of the [adithprojects](https://github.com/AdithSoragu/adithprojects) collection.
