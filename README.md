@@ -1,5 +1,11 @@
 # Design of a Calculator Using Verilog
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Verilog-blue">
+  <img src="https://img.shields.io/badge/Simulation-ModelSim-green">
+  <img src="https://img.shields.io/badge/Status-Completed-success">
+</p>
+
 This repository contains the hardware description and implementation of a digital calculator using **Verilog HDL**. The design focuses on a modular architecture, separating the computational logic from the control flow to ensure scalability and efficient hardware synthesis.
 
 ## 🚀 Features
